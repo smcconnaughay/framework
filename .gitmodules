@@ -13,3 +13,6 @@
 [submodule "jquery"]
 	path = jquery
 	url = https://github.com/jquery/jquery.git
+[submodule "moment"]
+	path = moment
+	url = https://github.com/moment/moment.git
